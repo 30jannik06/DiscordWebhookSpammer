@@ -1,0 +1,2 @@
+C:\Users\j.sommer\Documents\github\csharp\DiscordWebhookSpammer\bin\Release\net7.0\win-x64\publish\DiscordWebhookSpammer.pdb
+C:\Users\j.sommer\Documents\github\csharp\DiscordWebhookSpammer\bin\Release\net7.0\win-x64\publish\DiscordWebhookSpammer.exe
